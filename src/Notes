@@ -1,0 +1,12 @@
+instol direction
+React bootstrap
+//fontawesome================
+npm install --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/react-fontawesome
+npm install --save @fortawesome/free-brands-svg-icons
+npm install --save @fortawesome/free-regular-svg-icons
+//google font========================
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Varela+Round&display=swap" rel="stylesheet">
+===================================
+~slick-carousel
